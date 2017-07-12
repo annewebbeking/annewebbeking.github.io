@@ -1,0 +1,200 @@
+/* /'Amatic SC', cursive is other font option. color: rgb(255,0,0)*/
+
+*{
+	margin: 0:
+	padding: 0;
+}
+
+
+h1{
+	font-family: 'Arvo', serif; padding-left: 70px; padding-right: 70px; padding-top: 60px; color: black; text-align:left;}
+
+p{
+	font-family:'Open Sans', sans-serif; padding-left: 70px; padding-right: 70px; padding-bottom: 0px; color: black;text-align:left; font-size:12pt;}
+
+h3, h4, ol{
+	font-family: 'Arvo', serif; padding-left: 70px; padding-right: 70px; padding-top: 40px; color: black; text-align:left;}
+
+h2{
+	font-family: 'Arvo', serif; padding-left: 70px; padding-right: 70px; padding-top: 0px; color: black; text-align:left;}
+
+h5{
+	font-family: 'Arvo', serif; padding-left: 70px; padding-right: 70px; padding-top: 30px; color: black; text-align:left;}
+
+a{
+	font-family: 'Arvo', serif;
+	text-decoration: none;
+	color: black;}	
+
+li {
+	float: left;
+	font-size: 15pt;
+}
+
+li a {
+	display: block;
+	color: white;
+	margin-left: 0px;
+	text-align: left;
+	text-decoration: none;
+}
+
+/*ul{
+    background-color: none;
+	list-style-type: none;
+	width:100%;
+	overflow: hidden;
+	color: white;
+}*/
+
+
+.roundbox{
+	background-color: rgb(227, 121, 38);
+	padding: 10px;
+	border: 90px;
+	border-radius: 10px;
+	width: 180px;
+	margin-left: 70px;
+	margin-right: 0px;
+	padding-left:20px;
+	align-content: center;
+	align-self: center;
+}
+
+.roundboxright{
+	background-color: rgb(227, 121, 38);
+	padding: 10px;
+	border: 90px;
+	border-radius: 10px;
+	width: 180px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left:20px;
+	align-content: center;
+	align-self: center;
+}
+
+.roundboxcenter{
+	background-color: rgb(227, 121, 38);
+	padding: 10px;
+	border: 90px;
+	border-radius: 10px;
+	width: 180px;
+	margin-left: 35px;
+	margin-right: 0px;
+	padding-left:20px;
+	align-content: center;
+	align-self: center;
+}
+
+.roundboxleft{
+	background-color: rgb(227, 121, 38);
+	padding: 10px;
+	border: 90px;
+	border-radius: 10px;
+	width: 180px;
+	margin-left: 70px;
+	margin-right: 0px;
+	padding-left:20px;
+	align-content: center;
+	align-self: center;
+}
+
+.logo {width: 78%; margin-left: 40px; margin-right: 40px; margin-top:70px;}
+.logonav {width: 160px; margin-left: 20px; margin-right: 0px; margin-top:0px;}
+
+img{
+	padding-left: 0px; padding-right: 0px; padding-bottom:0px; padding-top: 0px;}
+
+
+.sidebar {width: 25%; height: 4000px; float: left; position: relative; background-color:rgb(41, 5, 81); }
+.contents {width: 75%; height: 4000px; float: right; position: relative; background-color:rgb(245, 245, 209); padding-top: none}
+
+
+.column1 {width:33%; float: left; position: relative;}
+.column2 {width:33%; float: left; position: relative;}
+.column3 {width:33%; float: right; position: relative;}
+.subhead {width:100%; text-align: center;}
+.section {width:100%;margin-top: 100px; margin-bottom:100px; margin-left:0px: margin-right:0px;}
+
+.row {text-align: left; margin-top:0px;}
+
+.quote {font-family:'Open Sans', sans-serif; padding-left: 70px; padding-right: 70px; padding-bottom: 5px; color: rgb(179, 146, 120); ; text-align: left; font-size: 14pt}
+.source {font-family:'Arvo'; padding-left: 70px; padding-right: 70px; padding-bottom: 0px; padding-top: 80px; color: rgb(247, 173, 114); ; text-align: left; font-size: 12pt}
+
+.photos {padding-left: 70px; padding-right: 70px; padding-bottom: 0px; padding-top: 0px;}
+.photos2 {padding-left: 60px; padding-right: 00px; padding-bottom: 0px; padding-top: 0px;}
+.paragraphright {font-family:'Open Sans', sans-serif; padding-left: 00px; padding-right: 70px; padding-bottom: 5px; color: black;text-align:left; font-size:12pt;}
+.paragraphleft {font-family:'Open Sans', sans-serif; padding-left: 70px; padding-right: 0px; padding-bottom: 5px; color: black;text-align:left; font-size:12pt;}
+.paragraphcenter {font-family:'Open Sans', sans-serif; padding-left: 35px; padding-right: 35px; padding-bottom: 5px; color: black;text-align:left; font-size:12pt;}
+
+.h3right {font-family: 'Arvo', serif; padding-left: 0px; padding-right: 70px; padding-top: 30px; color: black; text-align:left;}
+.h3left {font-family: 'Arvo', serif; padding-left: 70px; padding-right: 70px; padding-top: 30px; color: black; text-align:left;}
+
+.h3thumb {font-family: 'Arvo', serif; padding-left: 0px; padding-right: 0px; padding-top: 0px; color: black; text-align:left;}
+.pthumb{font-family:'Open Sans', sans-serif; padding-left: 0px; padding-right: 0px; padding-bottom: 0px; text-align:left; font-size:12pt;}
+.photothumb{padding-right:15px; padding-left:15px; padding-top: 15px;}
+.thumbnail{background-color:rgb(245, 245, 209);}
+
+
+.h4left {font-family: 'Arvo', serif; padding-left: 70px; padding-right: 0px; padding-top: 0px; color: black; text-align:left;}
+.h4center {font-family: 'Arvo', serif; padding-left: 35px; padding-right: 35px; padding-top: 0px; color: black; text-align:left;}
+.h4right {font-family: 'Arvo', serif; padding-left: 0px; padding-right: 70px; padding-top: 0px; color: black; text-align:left;}
+
+.index {font-size: 15pt; margin-left: 0px; display: block; color: white; text-align: left; text-decoration: none; width:100%;}
+
+.address {font-family:'Open Sans', sans-serif; padding-left: 30px; padding-right: 30px; padding-bottom: 0px; color: white;text-align:center; font-size:9pt;}
+.addresstop {font-family: 'Arvo', serif; padding-left: 30px; padding-right: 30px; padding-bottom: 0px; margin-top: 30px; color: white; text-align:center; font-size:11pt;}
+
+
+.navbar {background-color:black; padding-bottom: 0px; padding-top: 50px; padding-left: 50px; padding-bottom:none;}
+ul.navtype {color:white;}
+
+.photointro {width:100%;}
+
+.btn {color:black;}
+.button {color:purple;}
+.btn-primary {
+    color: #fff;
+    background-color: purple;
+    border-color: #204d74;
+}
+
+
+
+
+@keyframes fadeMe{ 0%{ background-image: url('../photos/animate/logo3.png')} 
+					5% {  background-image: url('../photos/animate/logo4.png')} 
+					10% {  background-image: url('../photos/animate/logo6.png')} 
+					15% {  background-image: url('../photos/animate/logo7.png')} 
+					20% {  background-image: url('../photos/animate/logo8.png')} 
+					25% {  background-image: url('../photos/animate/logo9.png')} 
+					30% {  background-image: url('../photos/animate/logo10.png')} 
+					35% {  background-image: url('../photos/animate/logo11.png')} 
+					40% {  background-image: url('../photos/animate/logo12.png')} 
+					45% {  background-image: url('../photos/animate/logo13.png')} 
+					50% {  background-image: url('../photos/animate/logo14.png')} 
+					60% {  background-image: url('../photos/animate/logo15.png')} 
+					65% {  background-image: url('../photos/animate/logo16.png')} 
+					70% {  background-image: url('../photos/animate/logo17.png')} 
+					80% {  background-image: url('../photos/animate/logo18.png')} 
+					90% {  background-image: url('../photos/animate/logo19.png')} 
+					100% {  background-image: url('../photos/animate/logo20.png')} 
+
+				}
+
+
+.animate-me { animation-name: fadeMe; animation-duration: 8s; animation-timing-function: linear; width: 391px; height: 300px; background-image: url('../photos/animate/logo3.png'); margin: 0 auto; padding:40px;}
+
+
+@media only screen and (max-width: 767px) { /*Make the text green on small devices*/
+    .mytext{
+        color: green;
+    }
+}
+
+@media only screen and (min-width: 768px) { /*Make the text red on large devices*/
+    .mytext{
+        color: red;
+    }
+}
