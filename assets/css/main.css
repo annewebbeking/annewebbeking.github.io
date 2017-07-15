@@ -161,6 +161,8 @@ ul.navtype {color:white;}
 }
 
 
+.logonavbar {width:300px; padding-bottom:30px;}
+
 
 
 @keyframes fadeMe{ 0%{ background-image: url('../photos/animate/logo3.png')} 
@@ -190,8 +192,8 @@ ul.navtype {color:white;}
 @media only screen and (max-width: 767px) { /*Make the text green on small devices*/
 
 .thumbnail {
-    margin-right: 20px;
-    margin-left: 20px;
+	width: 60%;
+    margin:auto;
 }
 }
 
